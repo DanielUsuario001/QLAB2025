@@ -5,7 +5,7 @@
 # Curso de Python QLAB 2025
 
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue?logo=python)](https://www.python.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/CarlosDanielMamani/curso-python-qlab-2025.svg?color=orange)](https://github.com/CarlosDanielMamani/curso-python-qlab-2025/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/CarlosDanielMamani/curso-python-qlab-2025.svg?color=orange)]([https://github.com/CarlosDanielMamani/curso-python-qlab-2025/commits/main](https://github.com/DanielUsuario001/QLAB2025))
 
 > **Material del Curso de Python QLAB 2025**  
 > Desde los fundamentos del lenguaje hasta análisis de datos, automatización de tareas y buenas prácticas de desarrollo profesional en Python 3.12.  
