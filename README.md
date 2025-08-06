@@ -8,14 +8,14 @@
 [![Last Commit](https://img.shields.io/github/last-commit/DanielUsuario001/QLAB2025?color=orange)](https://github.com/DanielUsuario001/QLAB2025/commits/main)
 
 
-> Desde los fundamentos del lenguaje hasta análisis de datos, automatización de tareas y buenas prácticas de desarrollo profesional en Python 3.12.  
 > **Este repositorio incluirá mi proyecto personal desarrollado a lo largo del curso.**
 
 ---
 
 ## 📝 Descripción general
 
-Este repositorio recopila **notebooks, scripts y materiales de apoyo** usados en el *Curso de Python QLAB 2025*, un programa intensivo dirigido a estudiantes y profesionales que buscan dominar Python para análisis de datos, automatización y desarrollo de aplicaciones.  
+Este repositorio recopila **scripts** interpretados del **Taller de Programación en Python aplicado para Economía y Finanzas**, un programa intensivo dirigido a estudiantes que buscan dominar Python para análisis de datos.
+
 Cada módulo incluye ejemplos prácticos, ejercicios y pruebas unitarias para poner en práctica los conceptos aprendidos de inmediato.  
 Asimismo, aquí se alojará **mi proyecto personal**, donde aplicaré los conocimientos del curso en un caso de uso real.
 
@@ -33,7 +33,7 @@ Asimismo, aquí se alojará **mi proyecto personal**, donde aplicaré los conoci
 
 | Herramienta | Versión mínima | Instalación recomendada |
 |-------------|---------------|-------------------------|
-| **Python**  | 3.12          |                         |
+| **Python**  | 3.12          | Paquete oficial o gestor de paquetes |
 | **Git**     | 2.30          | Paquete oficial o gestor de paquetes |
 
 > **Tip:** el entorno `QLAB2025` se crea automáticamente a partir del archivo `environment.yml`.
